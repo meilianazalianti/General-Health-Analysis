@@ -10,6 +10,11 @@ This project explores a large-scale health dataset containing over 300,000 recor
   - Depression, Diabetes, Arthritis, Sex, Age_Category, Height (cm), Weight (kg), BMI
   - Smoking_History, Alcohol_Consumption, Fruit_Consumption, Green_Vegetables_Consumption, FriedPotato_Consumption
 
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download it from the following link:  
+🔗 [Download health_dataset.csv](https://drive.google.com/file/d/1pcEZ3HIrxHXXkJMH-wsWZNH70LujlKvm/view?usp=drive_link)
+
 ## Steps Performed
 
 1. **Data Preprocessing**
